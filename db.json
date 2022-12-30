@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Printers",
+      "price": 300,
+      "quantity": 2600,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 700,
+      "quantity": 760,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Printer",
+      "price": 200,
+      "quantity": 7600,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "azertty",
+      "price": "99",
+      "quantity": "789",
+      "selected": true,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "z",
+      "price": "2",
+      "quantity": "3",
+      "selected": true,
+      "available": true,
+      "id": 6
+    }
+  ]
+}
